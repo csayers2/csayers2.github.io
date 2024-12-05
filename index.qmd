@@ -1,11 +1,35 @@
 ---
-title: "csayers2.github.io"
+title: "Chris Sayers"
+subtitle: PhD Student
+          NSF Fellow & NASA Future Investigator
+          University of California, Los Angeles
+image: images/headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - icon: mail
+      text: Email
+      href: csayers2@ucla.edu
+    - icon: linkedin
+      href: www.linkedin.com/in/csayers2
+    - icon: researchgate
+      text: RG
+      href: https://www.researchgate.net/profile/Chris-Sayers
+    - icon: github
+      href: https://github.com/csayers2
+    - icon: instagram
+      href: https://www.instagram.com/c_sayers2/
 ---
 
-This is a Quarto website.
+I am a bird conservation biologist and ecotoxicologist — an "ecotoxic-ornithologist" — in the Tingley Lab at the University of California, Los Angeles, a National Science Foundation Graduate Research Fellow in Ecology, and a NASA Future Investigator in Earth Sciences.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+While I am broadly interested in how human-induced drivers of global change impact biological diversity, I often focus on environmental pollution as a widely-neglected stressor with fatal consequences. As species attempt to adapt on a rapidly changing planet, it is critical to understand how pollution can influence various aspects of their life history: behavior, migration, reproduction, and survival.
 
-```{r}
-1 + 1
-```
+I currently research how bird communities in Amazonia respond to mercury pollution, and other environmental disturbances caused by gold mining, with the intent to inform resource extraction and conservation decision making.
+
+Education
+
+BSc - Cornell University (2020)
