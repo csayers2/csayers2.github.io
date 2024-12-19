@@ -1,0 +1,30 @@
+---
+title: "Publications"
+toc: true
+---
+
+My [Google Scholar](https://scholar.google.com/citations?hl=en&user=bOWV5GUAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Christopher-Sayers-Ii) profiles.
+
+### Peer-reviewed Publications
+
+5\. Pisconte, J., C.M. Vega, **C.J. Sayers II**, M. Pillaca, E. Quispe, C.S. Sevillano-Ríos, V. Tejeda, C. Ascorra, M.R. Silman, and L.E. Fernandez. 2024. Elevated mercury exposure in bird communities inhabiting Artisanal and Small-Scale Gold Mining landscapes of the southeastern Peruvian Amazon. *Ecotoxicology* 33:472–483. \[[Article](https://doi.org/10.1007/s10646-024-02740-4)\]
+
+4\. Hopping, W.A., **C.J. Sayers II**, N.R. Huaraca-Charca, and H. Klinck. 2023. Simultaneous passive acoustic monitoring uncovers evidence of potentially overlooked temporal variation in an Amazonian bird community. *IBIS* 166(3):986–1002. \[[Article](https://onlinelibrary.wiley.com/doi/10.1111/ibi.13293)\]
+
+3\. **Sayers II, C.J.**, D.C. Evers, V. Ruiz-Gutierrez, E. Adams, C.M. Vega, J. Pisconte, K. Regan, O.P. Lane, A.A. Ash, R. Cal, S. Reneau, W. Martínez, G. Welch, K. Hartwell, M. Teul, D. Tzul, W. Arendt, M. Tórrez, M. Watsa, G. Erkenswick, C.E. Moore, J. Gerson, V. Sánchez, R. Pérez Purizaca, H. Yurek, M. Burton, P.L. Shrum, S. Taberes-Segovia, K. Vargas, F.F. Fogarty, M.R. Charette, A.E. Martínez, E.S. Bernhardt, T.H. Tear, and L.E. Fernandez. 2023. Mercury in Neotropical birds: a synthesis and prospectus on 13 years of exposure data. *Ecotoxicology* 32(8):1096–1123. \[[Article](https://link.springer.com/article/10.1007/s10646-023-02706-y)\] \[[Reuters](https://www.reuters.com/business/environment/gold-mining-spreads-mercury-tropical-birds-study-says-2023-11-01/)\] \[[UCLA Newsroom](https://newsroom.ucla.edu/releases/what-is-behind-the-toxic-levels-of-mercury-in-tropical-birds)\]
+
+2\. **Sayers II, C.J.**, M.R. Roeder, L.M. Forrette, D. Roche, G.L.B. Dupont, S.E. Apgar, A.R. Kocek, A.M. Cook, W.G. Shriver, C.S. Elphick, B. Olsen, and D.N. Bonter. 2021. Geographic variation of mercury in breeding tidal marsh sparrows of the northeastern United States. *Ecotoxicology* 30(9):1929–1940. [\[Article\]](https://doi.org/10.1007/s10646-021-02461-y)
+
+1\. **Sayers II, C.J.**, C. Moreland, H. Morgan, and J.E. Arévalo. 2019. Short-term effects of traffic noise on avian dawn chorus in a neotropical cloud forest/Efecto de corto plazo del ruido por tráfico sobre coros de aves en un bosque nuboso neotropical. *El Boletín Zeledonia* 23(2):8–28. \[Article in [English](https://www.zeledonia.com/uploads/7/0/1/0/70104897/english_12_13_19_sayers_moreland_morgan_arevalo_zeledoniasubmission%5B5146%5D.pdf) & [Español](https://www.zeledonia.com/uploads/7/0/1/0/70104897/sayers_et_al.pdf)\]
+
+### Editorial-reviewed Publications
+
+1\. **Sayers II, C.J.** 2020. Diademed Sandpiper-Plover (*Phegornis mitchellii*), version 1.0. In *Birds of the World* (S.M. Billerman, B.K. Keeney, P.G. Rodewald, and T.S. Schulenberg, Editors). Cornell Lab of Ornithology, Ithaca, NY, USA. [\[Website\]](https://doi.org/10.2173/bow.diaplo1.01)
+
+### Reports
+
+1\. Evers, D.C., L.J. Savoy, C.R. DeSorbo, K. Regan, C. Persico, and **C.J. Sayers II**. 2021. Bird field sampling methods: collection of tissues for mercury analysis. Report BRI 2021-03, Biodiversity Research Institute, Portland, ME, USA. [\[Report\]](https://bit.ly/3hVeDUp)
+
+### Films
+
+1\. **Sayers II, C.J.** 5 March 2019. Fieldwork In East Africa: Cooperative Breeding In Superb Starlings. *All About Birds*, Cornell Lab of Ornithology. [\[Video\]](https://bit.ly/mpalavideo)

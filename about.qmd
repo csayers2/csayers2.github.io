@@ -1,9 +1,24 @@
 ---
-title: "About"
+title: "Chris Sayers"
+subtitle: Conservation Biologist & Ecotoxicologist
+image: photos/headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - icon: letter
+      text: E-mail
+      href: csayers2@ucla.edu
+    - text: Download CV
+      href: https://drive.google.com/drive/folders/1-yi1FOMtZciFvlKrgaMcP2dqQ6fYQUpE?usp=sharing
 ---
 
-About this site
+I am a PhD candidate, NSF Graduate Research Fellow, and NASA Early Career Researcher in the Tingley Lab at the University of California, Los Angeles. I also hold affiliate researcher positions at the Centro de Innovación Científica Amazónica in Puerto Maldonado, Peru and the Biodiversity Research Institute in Portland, Maine.
 
-```{r}
-1 + 1
-```
+My research centers on how bird communities respond to habitat degradation and pollution caused by gold mining in Amazonia, with the intent to inform resource extraction and conservation decision making.
+
+#### Education
+
+BSc - Cornell University (2020)

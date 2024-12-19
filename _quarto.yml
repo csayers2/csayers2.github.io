@@ -5,14 +5,33 @@ project:
 website:
   title: "Chris Sayers"
   navbar:
+    pinned: false
+    #logo: photos/BFAN.png
+    #background: darkgreen
+    #foreground: white
+    #search: true
+    tools:
+      - icon: linkedin
+        href: www.linkedin.com/in/csayers2
+      - icon: researchgate
+        text: RG
+        href: https://www.researchgate.net/profile/Chris-Sayers
+      - icon: github
+        href: https://github.com/csayers2
+      - icon: instagram
+        href: https://www.instagram.com/c_sayers2/
+      - icon: binoculars
+        href: https://ebird.org/profile/NTQ0NTM4/world
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - research.qmd
+      - publications.qmd
+      - contact.qmd
 
 format:
   html:
-    theme: cosmo
+    #theme: 
     css: styles.css
     toc: true
 
