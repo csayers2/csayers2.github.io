@@ -1,0 +1,28 @@
+---
+title: "A collaborative framework for monitoring pollution in the tropics"
+description: "Environmental pollution of the global tropics outpaces our understanding of its consequences for biodiversity, and may contribute to regional bird declines. The TRACE Network is an international collaboration that produces, and provides open access to, emerging data on biotic contamination to better inform tropical bird conservation."
+author: "Chris Sayers"
+date: "January 15, 2021"
+image: "TRACE.png"
+categories:
+  - Ecotoxicology
+  - Conservation
+  - Tropics
+  - Data sharing
+---
+
+[![](TRACE.png){fig-align="center"}](https://briwildlife.org/TRACE/)
+
+# How does the network work?
+
+[![](TRACE_Pipeline.png){fig-align="center"}](https://briwildlife.org/trace/)
+
+# Want to contribute? Visit our website!
+
+<https://briwildlife.org/trace/>
+
+# Additional materials
+
+[Presentation](https://drive.google.com/file/d/1v1J3iPvN_Q9gXq0KEizxxoDS9O73ZN4b/view?usp=sharing)
+
+Funded by the Biodiversity Research Institute.

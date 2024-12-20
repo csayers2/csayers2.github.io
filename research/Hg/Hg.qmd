@@ -1,0 +1,24 @@
+---
+title: "Synthesizing over a decade of Neotropical bird mercury data"
+description: "Environmental mercury contamination has been severely neglected in the Neotropics, despite rapidly growing emissions from gold mining. To improve our understanding of mercury exposure to terrestrial biodiversity, we established exposure baselines for over 300 bird species across Central America, South America, and the West Indies, and quantified Hg prevalence and variation across taxonomic groups and functional traits."
+author: "Chris Sayers"
+date: "June 1, 2020"
+image: "GAbstractHg.jpg"
+categories:
+  - Birds
+  - Mercury
+  - Ecotoxicology
+  - Neotropics
+---
+
+![Total mercury (THg) concentrations (µg/g) and sample sizes of birds sampled across Central America, South America, and the West Indies from 2007–2023. Point size and color are arranged in order of increasing THg concentration and hexagonal grid cells are colored in terms of increasing sample size.](GAbstract_Satellite_Circle_AllTissue.jpg)
+
+# Citation
+
+**Sayers II, C.J.**, D.C. Evers, V. Ruiz-Gutierrez, E. Adams, C.M. Vega, J. Pisconte, K. Regan, O.P. Lane, A.A. Ash, R. Cal, S. Reneau, W. Martínez, G. Welch, K. Hartwell, M. Teul, D. Tzul, W. Arendt, M. Tórrez, M. Watsa, G. Erkenswick, C.E. Moore, J. Gerson, V. Sánchez, R. Pérez Purizaca, H. Yurek, M. Burton, P.L. Shrum, S. Taberes-Segovia, K. Vargas, F.F. Fogarty, M.R. Charette, A.E. Martínez, E.S. Bernhardt, T.H. Tear, and L.E. Fernandez. 2023. Mercury in Neotropical birds: a synthesis and prospectus on 13 years of exposure data. *Ecotoxicology* 32(8):1096–1123. \[[Article](https://link.springer.com/article/10.1007/s10646-023-02706-y)\] \[[Reuters](https://www.reuters.com/business/environment/gold-mining-spreads-mercury-tropical-birds-study-says-2023-11-01/)\] \[[UCLA Newsroom](https://newsroom.ucla.edu/releases/what-is-behind-the-toxic-levels-of-mercury-in-tropical-birds)\]
+
+# Additional materials
+
+[Presentation](https://drive.google.com/file/d/1RY62k8pnyxc1OfmNtrhVmh-3QL67iV64/view?usp=sharing), [GitHub](https://github.com/csayers2/Neotropical-Bird-Hg-Review)
+
+Funded by the Biodiversity Research Institute and Cornell Lab of Ornithology.

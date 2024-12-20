@@ -1,0 +1,11 @@
+---
+title: "Central America"
+image: "RETF.jpg"
+---
+
+|                                                                |                                    |                                   |                                   |
+|------------------|------------------|------------------|------------------|
+| ![](Sayers_SquirrelMonkey.jpg){width="300"}                    | ![](Sayers_BTTH8.jpg){width="300"} | ![](Sayers_SBAN.jpg){width="300"} | ![](RETF.jpg){width="300"}        |
+| ![](CostaRica_ChristopherSayers_Flora:Fauna3.jpg){width="300"} | ![](_CS_9924.jpg){width="300"}     | ![](_CS_0686.jpg){width="300"}    | ![](Sayers_FBAR.jpg){width="300"} |
+| ![](_CS_0661.jpg){width="300"}                                 | ![](_CS_0577.jpg){width="300"}     | ![](_CS_5630.jpg){width="300"}    | ![](_CS_8168.jpg){width="300"}    |
+| ![](_CS_8751.jpg){width="300"}                                 | ![](_CS_8721.jpg){width="300"}     | ![](_CS_8755.jpg){width="300"}    | ![](_CS_8784.jpg){width="300"}    |

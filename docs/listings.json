@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/research.html",
+    "items": [
+      "/images/test.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/ASGM/ASGM.html",
+      "/research/DBS/DBS.html",
+      "/research/TRACE/TRACE.html",
+      "/research/Hg/Hg.html",
+      "/research/SHARP/SHARP.html"
+    ]
+  },
+  {
+    "listing": "/photography/index.html",
+    "items": [
+      "/photography/Africa/Africa.html",
+      "/photography/Central_America/Central_America.html",
+      "/photography/South_America/South_America.html"
+    ]
+  }
+]
