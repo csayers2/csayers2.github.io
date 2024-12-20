@@ -1,0 +1,7 @@
+---
+title: "Using birds to understand how pollution impacts biodiversity"
+banner: "images/headshot.jpg"
+banner-height: 400px
+---
+
+![](images/ITA_Canopy.jpg)
