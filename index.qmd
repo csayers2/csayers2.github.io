@@ -1,7 +1,13 @@
 ---
-title: "Using birds to understand how pollution impacts biodiversity"
-banner: "images/headshot.jpg"
-banner-height: 400px
+title: "Chris Sayers"
+subtitle: Understanding how pollution impacts biodiversity
+image: images/headshot.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: About
+      href: about.qmd
 ---
-
-![](images/ITA_Canopy.jpg)
