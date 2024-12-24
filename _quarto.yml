@@ -11,9 +11,6 @@ website:
     background: darkolivegreen
     foreground: white
     left:
-      - text: .
-        icon: house-door-fill
-        href: index.qmd
       - text: About
         href: about.qmd
       - text: Research
