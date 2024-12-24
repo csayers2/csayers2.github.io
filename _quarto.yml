@@ -9,9 +9,10 @@ website:
     pinned: false
     #logo: photos/BFAN.png
     background: darkolivegreen
-    #foreground: white
+    foreground: white
     left:
-      - text: Home
+      - text: .
+        icon: house-door-fill
         href: index.qmd
       - text: About
         href: about.qmd
@@ -33,22 +34,25 @@ website:
         href: https://github.com/csayers2
       - icon: instagram
         href: https://www.instagram.com/c_sayers2/
-      - icon: binoculars
+      - icon: binoculars-fill
         href: https://ebird.org/profile/NTQ0NTM4/world
     search: true
+  page-footer:
+    center: "© Chris Sayers 2024 | Made with Quarto"
+    background: darkolivegreen
+    foreground: white
 
 format:
   html:
     fontsize: 18px
     grid:
-      body-width: 1200px
-    theme: default
+      body-width: 1000px
     # some themes I like
+    #theme: default
     #theme: minty
-    #theme: pulse
+    theme: pulse
     #theme: sandstone
     css: styles.css
     toc: true
 
 editor: visual
-

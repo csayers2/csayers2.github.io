@@ -7,7 +7,9 @@ image: "Venipuncture.jpg"
 categories:
   - Method
   - Mercury
+  - Birds
   - Tropics
+  - Ecotoxicology
 ---
 
 ![Blood draw via brachial venipuncture of a Black-banded Woodcreeper (*Dendrocolaptes picumnus*) in Madre de Dios, Peru. Handled and released safely with appropriate institutional and national permits.](Venipuncture.jpg)

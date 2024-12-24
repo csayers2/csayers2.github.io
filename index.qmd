@@ -1,13 +1,39 @@
 ---
 title: "Chris Sayers"
-subtitle: Understanding how pollution impacts biodiversity
+subtitle: "Conservation Biologist & Ecotoxicologist"
 image: images/headshot.jpg
 toc: false
 about: 
   template: jolla
   image-shape: round
-  image-width: 15em
+  image-width: 10em
   links:
-    - text: About
+    - text: Learn more
       href: about.qmd
 ---
+
+```{=html}
+<style>
+  body {
+    background-image: url("images/birds/SBAN_Banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    margin: 0; /* Ensures overlay covers the entire viewport */
+    height: 100vh; /* Ensures the overlay spans the full viewport height */
+  }
+
+  body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0); /* Adjust the last value for transparency (0 = fully transparent, 1 = fully opaque) */
+    z-index: -1; /* Keeps the overlay behind the content */
+  }
+</style>
+```
+### Understanding how pollution impacts biodiversity

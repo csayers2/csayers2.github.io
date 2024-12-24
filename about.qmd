@@ -15,13 +15,13 @@ about:
       href: https://drive.google.com/drive/folders/1-yi1FOMtZciFvlKrgaMcP2dqQ6fYQUpE?usp=sharing
 ---
 
-# About Me
+### About Me
 
-I am a PhD candidate, NSF Graduate Research Fellow, and NASA Early Career Researcher in the [Tingley Lab](https://www.morgantingley.com/) at the University of California, Los Angeles. I also hold affiliate researcher positions with the [Centro de Innovación Científica Amazónica (CINCIA)](https://cincia.wfu.edu/en/) in Puerto Maldonado, Peru and the [Biodiversity Research Institute](https://briwildlife.org/) in Portland, Maine.
+I am a PhD candidate, NSF Graduate Research Fellow, and NASA Early Career Researcher in the [Tingley Lab](https://www.morgantingley.com/) at the University of California, Los Angeles. I hold affiliate researcher positions with the [Centro de Innovación Científica Amazónica (CINCIA)](https://cincia.wfu.edu/en/) in Puerto Maldonado, Peru and the [Biodiversity Research Institute](https://briwildlife.org/) in Portland, Maine.
 
 As an avian conservation biologist and ecotoxicologist, I currently investigate how bird communities respond to habitat degradation and pollution caused by gold mining in Amazonia. I pursue this research with the intent to inform resource extraction and conservation decision making.
 
-## Education
+### Education
 
 **PhD - University of California, Los Angeles** \| 2022 - present**\
 **Ecology & Evolutionary Biology \| Los Angeles, CA
@@ -29,7 +29,7 @@ As an avian conservation biologist and ecotoxicologist, I currently investigate 
 **BSc - Cornell University** \| 2017 - 2020\
 Environmental & Sustainability Sciences \| Ithaca, NY\
 
-## Work
+### Work
 
 **Centro de Innovación Científica Amazónica (CINCIA)** \| Puerto Maldonado, Peru\
 Affiliate Researcher \| May 2022 - present
@@ -37,8 +37,8 @@ Affiliate Researcher \| May 2022 - present
 **Biodiversity Research Institute** \| Portland, ME\
 Tropical Bird Specialist \| January 2021 - present
 
-## Funding
+### Funding
 
 |                           |                          |                           |
-|------------------------|---------------|----------------|
+|-------------------------------|--------------------|---------------------|
 | ![](images/UCLA_Logo.png) | ![](images/NSF_Logo.png) | ![](images/NASA_Logo.png) |

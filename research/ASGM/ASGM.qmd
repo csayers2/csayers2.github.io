@@ -5,10 +5,11 @@ author: "Chris Sayers"
 date: "May 15, 2023"
 image: "DAG.png"
 categories:
-  - Gold mining
-  - Forest degradation
+  - Mining
+  - Deforestation
   - Ecotoxicology
   - Amazon
+  - Birds
 ---
 
 ![Concept map of gold mining threats to biodiversity. Solid lines represent documented threats and impacts in the literature, while dotted lines represent potential threats based on current understanding.](DAG.png){fig-align="center" width="1200"}

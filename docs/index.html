@@ -88,8 +88,9 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
+    <a class="nav-link active" href="./index.html" aria-current="page"> <i class="bi bi-house-door-fill" role="img">
+</i> 
+<span class="menu-text">.</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
@@ -134,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://ebird.org/profile/NTQ0NTM4/world"> <i class="bi bi-binoculars" role="img">
+    <a class="nav-link" href="https://ebird.org/profile/NTQ0NTM4/world"> <i class="bi bi-binoculars-fill" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -153,22 +154,46 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <div class="quarto-about-jolla content">
   <img src="images/headshot.jpg" class="about-image
-  round " style="height: 15em; width: 15em;">
+  round " style="height: 10em; width: 10em;">
  <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Chris Sayers</h1>
-<p class="subtitle lead">Understanding how pollution impacts biodiversity</p>
+<p class="subtitle lead">Conservation Biologist &amp; Ecotoxicologist</p>
 </div>
 <div class="quarto-title-meta">
   </div>
 </header><main class="content" id="quarto-document-content">
+<style>
+  body {
+    background-image: url("images/birds/SBAN_Banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+    margin: 0; /* Ensures overlay covers the entire viewport */
+    height: 100vh; /* Ensures the overlay spans the full viewport height */
+  }
+  body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0); /* Adjust the last value for transparency (0 = fully transparent, 1 = fully opaque) */
+    z-index: -1; /* Keeps the overlay behind the content */
+  }
+</style>
+<section id="understanding-how-pollution-impacts-biodiversity" class="level3">
+<h3 data-anchor-id="understanding-how-pollution-impacts-biodiversity">Understanding how pollution impacts biodiversity</h3>
 
 
+</section>
 </main> 
   <hr class="about-sep">
    <div class="about-links">
   <a href="/about.html" class="about-link" rel="" target="">
-     <span class="about-link-text">About</span>
+     <span class="about-link-text">Learn more</span>
   </a>
 </div>
 </div>
@@ -576,6 +601,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>© Chris Sayers 2024 | Made with Quarto</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 
