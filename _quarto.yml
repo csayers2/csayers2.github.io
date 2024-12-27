@@ -42,7 +42,7 @@ website:
 format:
   html:
     #fontsize: 18px
-    fontcolor: black
+    #fontcolor: black
     grid:
       body-width: 1200px
     # some themes I like
