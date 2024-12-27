@@ -1,5 +1,5 @@
 ---
-title: "Assessing mercury risk in a clade of declining marsh birds"
+title: "Assessing mercury risk in a group of declining marsh birds"
 description: "Tidal marsh sparrows are species of conservation concern primarily due to global sea-level rise and habitat loss, but mercury pollution may present additional threats to their reproductive success and survival. We identified clear bioaccumulation differences between species of similar niches, as well as pollution hotspots in previously unsampled areas of their breeding ranges."
 author: "Chris Sayers"
 date: "May 15, 2018"

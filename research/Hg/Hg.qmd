@@ -1,5 +1,5 @@
 ---
-title: "Synthesizing over a decade of Neotropical bird mercury data"
+title: "Summarizing over a decade of Neotropical bird mercury data"
 description: "Environmental mercury contamination has been severely neglected in the Neotropics, despite rapidly growing emissions from gold mining. To improve our understanding of mercury exposure to terrestrial biodiversity, we established exposure baselines for over 300 bird species across Central America, South America, and the West Indies, and quantified Hg prevalence and variation across taxonomic groups and functional traits."
 author: "Chris Sayers"
 date: "June 1, 2020"
