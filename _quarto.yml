@@ -41,9 +41,10 @@ website:
 
 format:
   html:
-    fontsize: 18px
+    #fontsize: 18px
+    #fontcolor: black
     grid:
-      body-width: 800px
+      body-width: 1200px
     # some themes I like
     #theme: default
     #theme: minty
