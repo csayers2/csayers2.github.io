@@ -7,7 +7,7 @@ website:
   site-url: www.csayers2.github.io/
   navbar:
     pinned: false
-    logo: photos/BFAN.png
+    #logo: photos/BFAN.png
     background: darkolivegreen
     foreground: white
     left:
