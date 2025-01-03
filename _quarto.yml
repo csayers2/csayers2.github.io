@@ -14,7 +14,7 @@ website:
       - text: About
         href: about.qmd
       - text: Research
-        href: research/index.qmd
+        href: research.qmd
       - text: Publications
         href: publications.qmd
       - text: Photography
@@ -37,7 +37,7 @@ website:
         href: https://ebird.org/profile/NTQ0NTM4/world
     search: true
   page-footer:
-    center: "© Chris Sayers 2024 | Made with Quarto"
+    center: "© Chris Sayers 2024<br>Made with Quarto"
     background: darkolivegreen
     foreground: white
 
