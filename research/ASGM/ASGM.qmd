@@ -1,6 +1,6 @@
 ---
 title: "Disentangling the impacts of gold mining to biodiversity in the Amazon"
-description: "A global surge in gold price is causing an ongoing gold rush in the most biodiverse place on Earth: the Amazon. Despite gold mining’s tremendous economic promise, we do not yet understand how the interacting environmental disturbances from this industry contribute to biodiversity loss. With the support of local collaborators, we are monitoring how bird communities respond to habitat degradation, pollution, hunting, and disease while surveying gold mines and conservation reserves in Peru."
+description: "A global surge in gold price is causing an ongoing gold rush in the most biodiverse place on Earth: the Amazon. Yet, we do not understand how the environmental disturbances from this industry may contribute to biodiversity loss. With the support of local collaborators, we are monitoring how bird communities respond to habitat degradation, pollution, hunting, and disease while surveying gold mines and conservation reserves in Peru."
 author: "Chris Sayers"
 date: "May 15, 2023"
 image: "DAG.png"
@@ -12,6 +12,6 @@ categories:
   - Birds
 ---
 
-![Concept map of gold mining threats to biodiversity. Solid lines represent documented threats and impacts in the literature, while dotted lines represent potential threats based on current understanding.](DAG.png){fig-align="center" width="1200"}
+![Concept map of gold mining threats to biodiversity.](DAG.png){fig-align="center" width="1200"}
 
 Funded by Centro de Innovación Científica Amazónica, NASA, UCLA Department of Ecology & Evolutionary Biology, Biodiversity Research Institute, American Ornithological Society, SoCal SETAC, UCLA Latin American Institute, and Sigma Xi Research Honor Society.
