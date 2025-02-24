@@ -3,8 +3,9 @@ title: "South America"
 image: "_CS_0260.jpg"
 ---
 
-|                                |                                  |                                |                                |
+|                                         |                                           |                                  |                                           |
 |------------------|------------------|------------------|------------------|
-| ![](_CS_0260.jpg){width="300"} | ![](_CS_9475-2.jpg){width="300"} | ![](_CS_0587.jpg){width="300"} | ![](_CS_1325.jpg){width="300"} |
-| ![](_CS_1348.jpg){width="300"} | ![](_CS_0458.jpg){width="300"}   | ![](_CS_9580.jpg){width="300"} | ![](_CS_1269.jpg){width="300"} |
-| ![](_CS_9395.jpg){width="300"} | ![](_CS_9411.jpg){width="300"}   | ![](_CS_9513.jpg){width="300"} | ![](_CS_0812.jpg){width="300"} |
+| ![](images/_CS_2042-Enhanced-NR-01.jpg) | ![](_CS_0260.jpg){width="300"}            | ![](_CS_9475-2.jpg){width="300"} | ![](images/_CS_2099-Enhanced-NR-2-01.jpg) |
+| ![](images/_CS_0456-01.jpg)             | ![](images/_CS_2075-Enhanced-NR-2-02.jpg) | ![](_CS_0587.jpg){width="300"}   | ![](_CS_1325.jpg){width="300"}            |
+| ![](_CS_1348.jpg){width="300"}          | ![](_CS_0458.jpg){width="300"}            | ![](_CS_9580.jpg){width="300"}   | ![](_CS_1269.jpg){width="300"}            |
+| ![](_CS_9395.jpg){width="300"}          | ![](_CS_9411.jpg){width="300"}            | ![](_CS_9513.jpg){width="300"}   | ![](_CS_0812.jpg){width="300"}            |
