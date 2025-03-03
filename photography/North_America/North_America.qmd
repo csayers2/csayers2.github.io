@@ -1,6 +1,6 @@
 ---
 title: "North America"
-image: "_CS_4192.jpg"
+image: "_CS_4021.jpg"
 ---
 
 |                                |                                |                                |                                |
