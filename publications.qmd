@@ -6,9 +6,11 @@ toc: true
 
 My [Google Scholar](https://scholar.google.com/citations?hl=en&user=bOWV5GUAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Christopher-Sayers-Ii) profiles.
 
-### Peer-reviewed Publications
+### In-review
 
-\[6\] **Sayers II, C.J.**, L. Huamani Valdivia, C.P. Siguas Gonzales, J.N. Pisconte, C.M. Vega, H. Yurek, K. Regan, E. Adams, N.R. Huaraca-Charca, R. Cal, S. Reneau, W. Martínez, G. Welch, K.S. Hartwell, D.C. Evers, L.E. Fernandez, and M.W. Tingley. A field method to optimize dried blood spot sampling for mercury biomonitoring. Submitted to *Methods in Ecology and Evolution*.
+\[1\] **Sayers II, C.J.**, L. Huamani Valdivia, C.P. Siguas Gonzales, J.N. Pisconte, C.M. Vega, H. Yurek, K. Regan, E. Adams, N.R. Huaraca-Charca, R. Cal, S. Reneau, W. Martínez, G. Welch, K.S. Hartwell, D.C. Evers, L.E. Fernandez, and M.W. Tingley. A field method to optimize dried blood spot sampling for mercury biomonitoring. Submitted to *Methods in Ecology and Evolution*.
+
+### Peer-reviewed Publications
 
 \[5\] Pisconte, J., C.M. Vega, **C.J. Sayers II**, M. Pillaca, E. Quispe, C.S. Sevillano-Ríos, V. Tejeda, C. Ascorra, M.R. Silman, and L.E. Fernandez. 2024. Elevated mercury exposure in bird communities inhabiting Artisanal and Small-Scale Gold Mining landscapes of the southeastern Peruvian Amazon. *Ecotoxicology* 33:472–483. \[[Article](https://doi.org/10.1007/s10646-024-02740-4)\]
 
