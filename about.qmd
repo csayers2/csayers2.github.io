@@ -27,7 +27,7 @@ As an avian conservation biologist and ecotoxicologist, I currently investigate 
 **Ecology & Evolutionary Biology \| Los Angeles, CA
 
 **B.Sc. - Cornell University** \| 2017 - 2020\
-Environmental & Sustainability Sciences \| Ithaca, NY\
+Environmental & Sustainability Sciences \| Ithaca, NY
 
 ### Work
 
@@ -40,5 +40,5 @@ Tropical Bird Specialist \| January 2021 - present
 ### Funding
 
 |  |  |  |
-|----|----|----|
+|------------------------------------|--------------------|----------------------|
 | ![](images/UCLA_Logo.png) | ![](images/NSF_Logo.png) | ![](images/NASA_Logo.png) |
