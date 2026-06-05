@@ -3,9 +3,20 @@ title: "North America"
 image: "_CS_4021.jpg"
 ---
 
-|                                |                                |                                |                                |
-|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
-| ![](_CS_4192.jpg){width="300"} | ![](_CS_0118.JPG){width="300"} | ![](f0000181.jpg){width="300"} | ![](_CS_8926.jpg){width="300"} |
-| ![](_CS_4254.jpg)              | ![](_CS_4021.jpg){width="300"} | ![](_CS_3711.jpg){width="300"} | ![](f0000100.jpg){width="300"} |
-| ![](_CS_2685.jpg){width="300"} | ![](_CS_9806.jpg){width="300"} | ![](_CS_2469.jpg)              | ![](_CS_0051.JPG)              |
-| ![](_CS_0083.JPG){width="300"} | ![](NY-3.JPG){width="300"}     | ![](_CS_0041.JPG)              | ![](_CS_9715-Enhanced-NR.jpg)  |
+<div class="photo-grid">
+  <img src="_CS_4192.jpg" alt="">
+  <img src="_CS_0118.JPG" alt="">
+  <img src="f0000181.jpg" alt="">
+  <img src="_CS_8926.jpg" alt="">
+  <img src="_CS_4254.jpg" alt="">
+  <img src="_CS_4021.jpg" alt="">
+  <img src="_CS_3711.jpg" alt="">
+  <img src="_CS_2685.jpg" alt="">
+  <img src="_CS_9806.jpg" alt="">
+  <img src="_CS_2469.jpg" alt="">
+  <img src="_CS_0051.JPG" alt="">
+  <img src="_CS_0083.JPG" alt="">
+  <img src="NY-3.JPG" alt="">
+  <img src="_CS_0041.JPG" alt="">
+  <img src="_CS_9715-Enhanced-NR.jpg" alt="">
+</div>

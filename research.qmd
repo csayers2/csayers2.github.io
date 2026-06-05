@@ -9,7 +9,7 @@ toc: false
 ::: {.research-text .order-first}
 ### Disentangling the impacts of gold mining to biodiversity in the Amazon
 
-A global surge in gold price is causing an ongoing gold rush in the most biodiverse place on Earth: the Amazon. Yet, we do not understand how the environmental disturbances from this industry may contribute to biodiversity loss. With the support of local collaborators, we are monitoring how bird communities respond to land cover change, pollution, hunting, and disease while surveying gold mines and conservation reserves in Peru.
+A global surge in gold price is causing an ongoing gold rush in the most biodiverse place on Earth: the Amazon. To understand how the environmental disturbances from this industry may contribute to biodiversity loss, we are monitoring how bird communities respond to land cover change, pollution, hunting, and disease while surveying gold mines and conservation reserves in Peru.
 
 Watch the [presentation](https://www.youtube.com/watch?v=cglqB7tkxW0).
 :::
@@ -25,13 +25,13 @@ Watch the [presentation](https://www.youtube.com/watch?v=cglqB7tkxW0).
 ::: {.research-text .order-first}
 ### Optimizing heavy metal biomonitoring in the tropics
 
-As mining industries expand to meet the global demand for precious minerals, heavy metal pollution is becoming commonplace throughout the tropics. Blood sampling provides a reliable, nonlethal measurement to track contamination in organisms, but storing samples can be challenging in remote field conditions. We developed a field-ready method to assay heavy metal exposure in birds without needing refrigeration, thereby eliminating logistical barriers and reducing operational costs.
+As mining industries expand to meet the global demand for precious minerals, heavy metal pollution is becoming commonplace throughout the tropics. Blood sampling provides a reliable, nonlethal measurement to track contamination in organisms, but storing samples can be challenging in remote field conditions. We developed a field-ready method to assay heavy metal exposure in birds without needing refrigeration, thereby eliminating logistical barriers and reducing operational costs for contaminant monitoring.
 
 Read the [preprint](https://www.biorxiv.org/content/10.64898/2026.05.27.727713v1).
 :::
 
 ::: {.research-image .order-last}
-![](images/DBS-Hg_GAbstract_Website%20(2).jpg){width="738"}
+![](images/DBS-Hg_GAbstract_EP-07.jpg)
 :::
 :::::
 
@@ -41,7 +41,7 @@ Read the [preprint](https://www.biorxiv.org/content/10.64898/2026.05.27.727713v1
 ::: {.research-text .order-first}
 ### Summarizing over a decade of Neotropical bird mercury data
 
-Environmental mercury contamination has been severely neglected in the Neotropics, despite rapidly growing emissions from gold mining. To improve our understanding of mercury exposure to terrestrial biodiversity, we established exposure baselines for over 300 bird species across Central America, South America, and the West Indies, and quantified Hg prevalence and variation across taxonomic groups and functional traits.
+Environmental mercury contamination in the Neotropics has been understudied despite rapidly growing emissions from gold mining. To improve our understanding of mercury exposure to terrestrial biodiversity, we established exposure baselines for over 300 bird species across Central America, South America, and the West Indies, and quantified Hg prevalence and variation across taxonomic groups and functional traits.
 
 Read the [article](https://link.springer.com/article/10.1007/s10646-023-02706-y).
 :::
