@@ -75,3 +75,26 @@
     flex-direction: column;
   }
 }
+
+
+/* =====================
+   Photography grid
+   ===================== */
+   
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+  width: 100%;
+}
+
+.photo-grid img {
+  display: block;
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.photo-grid p {
+  display: contents;
+}
