@@ -17,7 +17,7 @@ about:
 
 ### About Me
 
-I am a PhD candidate, NSF Graduate Research Fellow, and NASA Early Career Researcher in the [Tingley Lab](https://www.morgantingley.com/) at the University of California, Los Angeles. I hold affiliate researcher positions with the [Centro de Innovación Científica Amazónica (CINCIA)](https://cincia.wfu.edu/en/) in Puerto Maldonado, Peru and the [Biodiversity Research Institute](https://briwildlife.org/) in Portland, Maine.
+I am a Ph.D. candidate, NSF Graduate Research Fellow, and NASA Early Career Researcher in the [Tingley Lab](https://www.morgantingley.com/) at the University of California, Los Angeles. I hold affiliate researcher positions with the [Centro de Innovación Científica Amazónica (CINCIA)](https://cincia.wfu.edu/en/) in Puerto Maldonado, Peru and the [Biodiversity Research Institute](https://briwildlife.org/) in Portland, Maine.
 
 As an avian conservation biologist and ecotoxicologist, I currently investigate how bird communities respond to land cover change and pollution caused by gold mining in Amazonia. I pursue this research with the intent to inform resource extraction and conservation decision making.
 

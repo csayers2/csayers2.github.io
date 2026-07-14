@@ -15,7 +15,7 @@ Watch the [presentation](https://www.youtube.com/watch?v=cglqB7tkxW0).
 :::
 
 ::: {.research-image .order-last}
-![](images/DAG.png){width="801"}
+![](images/ASGM_DAG.png){width="801"}
 :::
 :::::
 
