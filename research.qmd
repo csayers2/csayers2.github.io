@@ -31,7 +31,7 @@ Read the [article](https://doi.org/10.1016/j.envpol.2026.129444).
 :::
 
 ::: {.research-image .order-last}
-![](images/DBS-Hg_GAbstract_EP-07.jpg)
+![](images/DBS-Hg_GAbstract_EP.jpg)
 :::
 :::::
 
